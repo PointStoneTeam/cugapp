@@ -1,16 +1,25 @@
-# hello_world
+# cugapp
 
-A new Flutter project.
+中国地质大学（武汉） 校园应用
 
-## Getting Started
+基于 Flutter 开发
 
-This project is a starting point for a Flutter application.
+## Beta v0.0.1 开发目标
 
-A few resources to get you started if this is your first Flutter project:
+- [ ] 主页：包含当日课程，课程表入口，成绩查询入口，通知卡片
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- [ ] 应用界面，进入图书馆，校园卡等其它应用的入口页面
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [ ] 个人设置界面
+
+- [ ] 完整的课程表展示页面
+
+- [ ] 成绩展示页面
+
+- [ ] 校园卡 查询/冻结/充值/挂失 页面
+
+- [ ] 图书馆 借阅查询/续借/欠费查询/图书查询 页面
+
+- [ ] 空教室查询页面
+
+- [ ] 财务信息查询页面
